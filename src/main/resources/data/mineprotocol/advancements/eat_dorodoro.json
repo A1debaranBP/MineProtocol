@@ -1,0 +1,28 @@
+{
+  "parent": "mineprotocol:mineprotocol_root",
+  "display": {
+    "icon": {
+      "item": "mineprotocol:dorodoro_g1"
+    },
+    "title": {
+      "translate": "advancements.mineprotocol.eat_dorodoro.title"
+    },
+    "description": {
+      "translate": "advancements.mineprotocol.eat_dorodoro.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eat_dorodoro": {
+      "trigger": "minecraft:effects_changed",
+      "conditions":{
+        "effects": {
+          "mineprotocol:double_drops": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "itemGroup.minepro_main" : "MINEPROTOCOL",
+
+  "item.mineprotocol.tokoyo" : "トコヨ草",
+  "item.mineprotocol.tokoyo.text1" : "様々な場所で採取できる草。\n困った時にもすぐに手に入る素材として長く愛されている。",
+
+  "item.mineprotocol.suisyou_genseki" : "水晶の原石",
+  "item.mineprotocol.suisyou_genseki.text1" : "様々な場所で採取できる石。\nそのままだと脆いが、エングラムのバランスを整えると驚くほどの剛性を発揮するようになる。",
+
+  "item.mineprotocol.grokenseed" : "グロークンシード",
+  "item.mineprotocol.grokenseed.text1" : "様々な場所で採取できる実。\n独特の臭みがあり、野生動物が好んで食べる。",
+  "item.mineprotocol.grokenseed.text2" : "満腹度2.5回復",
+
+  "item.mineprotocol.kanjyouseki" : "環状石",
+  "item.mineprotocol.kanjyouseki.text1" : "様々な場所で採取できる化石。\nそのまま鑑賞したり、標本として保存したりすることもある。",
+
+  "item.mineprotocol.baseclay" : "ベースクレイ",
+  "item.mineprotocol.baseclay.text1" : "転球錬成儀の構造に合わせて特殊処理を施したクレイペースト。\n配合によって、様々な色合いのものが存在する。\n一級品は凄腕の職人にしか作れない。",
+
+  "item.mineprotocol.asteriaingot" : "アステリウムインゴット",
+  "item.mineprotocol.asteriaingot.text1" : "オリジナルアイテム。\nゲームの都合上仕方なく導入。",
+
+  "item.mineprotocol.sewayaku_g1" : "世話役の結晶片G1",
+  "item.mineprotocol.sewayaku_g1.text1" : "エングラムを豊富に含む結晶。\n冒険者のクラフト素材として愛用される。\n回復薬が作れるよ!",
+  "item.mineprotocol.sewayaku_g2" : "世話役の結晶片G2",
+  "item.mineprotocol.sewayaku_g2.text1" : "エングラムを豊富に含む結晶。\n冒険者のクラフト素材として愛用される。\n回復薬が作れるよ!",
+
+  "item.mineprotocol.sazanami" : "さざなみ石",
+  "item.mineprotocol.sazanami.text1" : "様々な場所で採取できる石。\n含まれている成分が土壌や水はけを改善するため、農地での土作りにも利用されている。\n釣りの残念賞。",
+
+  "item.mineprotocol.yakuzai_g1" : "薬剤師の結晶片G1",
+  "item.mineprotocol.yakuzai_g1.text1" : "エングラムを豊富に含む結晶。\n冒険者のクラフト素材として愛用される。\n癒しのアロマが作れるよ!",
+  "item.mineprotocol.yakuzai_g2" : "薬剤師の結晶片G2",
+  "item.mineprotocol.yakuzai_g2.text1" : "エングラムを豊富に含む結晶。\n冒険者のクラフト素材として愛用される。\n癒しのアロマが作れるよ!",
+
+  "item.mineprotocol.douteki_kakera" :"動的エングラムの欠片",
+  "item.mineprotocol.douteki_kakera.text1" :"様々な敵ｓが落とす欠片。\n生物とも金属とも違う不思議な触感で、加工の方法も幅広い。",
+  "item.mineprotocol.douteki_kessyou" : "動的エングラムの結晶片",
+  "item.mineprotocol.douteki_kessyou.text1" : "様々な敵が落とす美しい欠片。\n耳を近づけるとかすかな音がする。\n人の声に聞こえる、という噂もある。",
+
+  "item.mineprotocol.kaihukuingot" : "回復役のクリスタルインゴット",
+  "item.mineprotocol.kaihukuingot.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶をさらに濃縮した。",
+
+  "item.mineprotocol.dorodoro_g1" : "敵・ドロップドロップG1",
+  "item.mineprotocol.dorodoro_g1.text1" : "口に入れた瞬間甘みが広がり、幸せな気持ちになれる。\nここでは各々食べようね。",
+  "item.mineprotocol.dorodoro_g1.text2" : "ドロップアイテム2倍/1m",
+
+  "item.mineprotocol.dorodoro_g2" : "敵・ドロップドロップG2",
+  "item.mineprotocol.dorodoro_g2.text1" : "口に入れた瞬間甘みが広がり、幸せな気持ちになれる。\n何個食べたかわからない。",
+  "item.mineprotocol.dorodoro_g2.text2" : "ドロップアイテム2倍/2m",
+
+  "item.mineprotocol.kaihuku_g1" : "回復薬G1",
+  "item.mineprotocol.kaihuku_g1.text1" : "服用することで体内のエングラムを活性化させ、戦闘などで負った傷を癒す効果を持つドリンク剤。",
+  "item.mineprotocol.kaihuku_g1.text2" : "HP回復/3",
+
+  "item.mineprotocol.kaihuku_g2" : "回復薬G2",
+  "item.mineprotocol.kaihuku_g2.text1" : "服用することで体内のエングラムを活性化させ、戦闘などで負った傷を癒す効果を持つドリンク剤。",
+  "item.mineprotocol.kaihuku_g2.text2" : "HP回復/5",
+
+  "item.mineprotocol.kaihuku_g3" : "回復薬G3",
+  "item.mineprotocol.kaihuku_g3.text1" : "服用することで体内のエングラムを活性化させ、戦闘などで負った傷を癒す効果を持つドリンク剤。",
+  "item.mineprotocol.kaihuku_g3.text2" : "HP回復/7",
+
+  "item.mineprotocol.kaihuku_g4" : "回復薬G4",
+  "item.mineprotocol.kaihuku_g4.text1" : "服用することで体内のエングラムを活性化させ、戦闘などで負った傷を癒す効果を持つドリンク剤。",
+  "item.mineprotocol.kaihuku_g4.text2" : "HP回復/9",
+
+  "item.mineprotocol.aroma_g1" : "癒しのアロマG1",
+  "item.mineprotocol.aroma_g1.text1" : "様々な種類のお香をブレンドした一品。\nたちどころに効果があり、冒険者のパーティの命綱として重宝されている。",
+  "item.mineprotocol.aroma_g1.text2" : "HP範囲回復/2",
+
+  "item.mineprotocol.aroma_g2" : "癒しのアロマG2",
+  "item.mineprotocol.aroma_g2.text1" : "様々な種類のお香をブレンドした一品。\nたちどころに効果があり、冒険者のパーティの命綱として重宝されている。",
+  "item.mineprotocol.aroma_g2.text2" : "HP範囲回復/4",
+
+  "item.mineprotocol.aroma_g3" : "癒しのアロマG3",
+  "item.mineprotocol.aroma_g3.text1" : "様々な種類のお香をブレンドした一品。\nたちどころに効果があり、冒険者のパーティの命綱として重宝されている。",
+  "item.mineprotocol.aroma_g3.text2" : "HP範囲回復/6",
+
+  "item.mineprotocol.aroma_g4" : "癒しのアロマG4",
+  "item.mineprotocol.aroma_g4.text1" : "様々な種類のお香をブレンドした一品。\nたちどころに効果があり、冒険者のパーティの命綱として重宝されている。",
+  "item.mineprotocol.aroma_g4.text2" : "HP範囲回復/8",
+
+  "block.mineprotocol.asteria_block" : "アステリウムブロック",
+  "block.mineprotocol.asteria_block.text1" : "オリジナルアイテム。\nゲームの都合上仕方なく導入。",
+
+  "block.mineprotocol.asteria_ore" : "アステリウム鉱石",
+  "block.mineprotocol.asteria_ore.text1" : "アステリア平原で採取できる鉱石。\n手を加えることで貴重な素材に変わる。",
+
+  "block.mineprotocol.kaihuku_block" : "回復役のクリスタル",
+  "block.mineprotocol.kaihuku_block.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶をさらに濃縮して、もっと濃縮した。",
+
+  "block.mineprotocol.kaihuku_ore" : "回復役の結晶石",
+  "block.mineprotocol.kaihuku_ore.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶だ。",
+
+  "block.mineprotocol.tokoyo_grass" : "トコヨ草の生えた雑草",
+  "block.mineprotocol.tokoyo_grass.text1" : "トコヨ草の生えるただの雑草だ",
+
+  "block.mineprotocol.ityan_block" : "イーちゃんブロック",
+  "block.mineprotocol.ityan_block.text1" : "かわいい",
+
+  "block.mineprotocol.gobu_block" : "ゴブリンブロック",
+  "block.mineprotocol.gobu_block.text1" : "かわいい",
+
+  "block.mineprotocol.red_gobu_block" : "エルダーゴブリンブロック",
+  "block.mineprotocol.red_gobu_block.text1" : "かわいい",
+
+  "block.mineprotocol.yellow_gobu_block" : "グレーターゴブリンブロック",
+  "block.mineprotocol.yellow_gobu_block.text1" : "かわいい",
+
+  "block.mineprotocol.nappo_block" : "ナッポブロック",
+  "block.mineprotocol.nappo_block.text1" : "かわいい",
+
+  "block.mineprotocol.green_nappo_block" : "友好的なナッポブロック",
+  "block.mineprotocol.green_nappo_block.text1" : "かわいい",
+
+  "block.mineprotocol.red_nappo_block" : "狂い咲きナッポブロック",
+  "block.mineprotocol.red_nappo_block.text1" : "かわいい",
+
+  "block.mineprotocol.silver_nappo_block" : "シルバーナッポブロック",
+  "block.mineprotocol.silver_nappo_block.text1" : "かわいい",
+
+  "block.mineprotocol.gold_nappo_block" : "ゴールデンナッポブロック",
+  "block.mineprotocol.gold_nappo_block.text1" : "かわいい",
+
+  "item.mineprotocol.doragon_edge" : "ドラゴンネイルエッジ",
+  "item.mineprotocol.doragon_edge.text1" : "『巨竜の爪痕』の素材を散りばめ、竜のイメージに沿ったデザインで装備者の野性に訴えかけるイージスファイターの剣盾。\n雲を切り裂き空を貫く、稲妻のような刹那の閃きを放つ。",
+  "item.mineprotocol.doragon_edge.text2" : "シールドガードG3\n右クリックで使用\n防御力上昇60%/30s,CT90s",
+
+  "item.mineprotocol.dragon_axe" : "ドラゴンネイルアクス",
+  "item.mineprotocol.dragon_axe.text1" : "『巨竜の爪痕』の素材を散りばめ、竜のイメージに沿ったデザインで装備者の野性に訴えかけるツインストライカーの双斧。\n雲を切り裂き空を貫く、稲妻のような刹那の閃きを放つ。",
+  "item.mineprotocol.dragon_axe.text2" : "ウォークライG3\n攻撃力、防御力増加/1m",
+
+  "item.mineprotocol.dragon_pickaxe" : "ドラゴンネイルロッド",
+  "item.mineprotocol.dragon_pickaxe.text1" : "『巨竜の爪痕』の素材を散りばめ、竜のイメージに沿ったデザインで装備者の野性に訴えかけるスペルキャスターの杖。\n雲を切り裂き空を貫く、稲妻のような刹那の閃きを放つ。\nなぜか石が掘れる。",
+  "item.mineprotocol.dragon_pickaxe.text2" : "コンセントレインG3\n再生、HP増加/1m",
+
+  "item.mineprotocol.dragon_shovel" : "ドラゴンネイルスマッシュ",
+  "item.mineprotocol.dragon_shovel.text1" : "『巨竜の爪痕』の素材を散りばめ、竜のイメージに沿ったデザインで装備者の野性に訴えかけるヘヴィスマッシャーのハンマー。\n雲を切り裂き空を貫く、稲妻のような刹那の閃きを放つ。\nなぜか土が掘れる。やっぱり玉はかわいい。",
+  "item.mineprotocol.dragon_shovel.text2" : "ロックボディG3\nアーマー、HP上昇/1m,CT3m",
+
+  "item.mineprotocol.dragon_hoe" : "ドラゴンネイルニードル",
+  "item.mineprotocol.dragon_hoe.text1" : "『巨竜の爪痕』の素材を散りばめ、竜のイメージに沿ったデザインで装備者の野性に訴えかけるブリッツランサーの両手槍。\n雲を切り裂き空を貫く、稲妻のような刹那の閃きを放つ。\nなぜか畑を耕せる。",
+  "item.mineprotocol.dragon_hoe.text2" : "グランドスパークG3\n落雷",
+
+  "item.mineprotocol.dragon_bow" : "ドラゴンネイルアロー",
+  "item.mineprotocol.dragon_bow.text1" : "『巨竜の爪痕』の素材を散りばめ、竜のイメージに沿ったデザインで装備者の野性に訴えかけるブラストアーチャーの弓。\n雲を切り裂き空を貫く、稲妻のような刹那の閃きを放つ。",
+  "item.mineprotocol.dragon_bow.text2" : "ハンタースピリットG3β\n移動速度上昇/30s,CT90s",
+
+  "item.mineprotocol.kaihuku_helmet" : "回復役のヘルメット",
+  "item.mineprotocol.kaihuku_helmet.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶で作ったヘルメット",
+  "item.mineprotocol.kaihuku_helmet.text2" : "HP上限上昇2",
+
+  "item.mineprotocol.kaihuku_chestplate" : "回復役のチェストプレート",
+  "item.mineprotocol.kaihuku_chestplate.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶で作ったチェストプレート",
+  "item.mineprotocol.kaihuku_chestplate.text2" : "HP上限上昇3",
+
+  "item.mineprotocol.kaihuku_leggings" : "回復役のレギンス",
+  "item.mineprotocol.kaihuku_leggings.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶で作ったレギンス",
+  "item.mineprotocol.kaihuku_leggings.text2" : "HP上限上昇3",
+
+  "item.mineprotocol.kaihuku_boots" : "回復役のブーツ",
+  "item.mineprotocol.kaihuku_boots.text1" : "オリジナルアイテム。\nエングラムを豊富に含んだ結晶で作ったブーツ",
+  "item.mineprotocol.kaihuku_boots.text2" : "HP上限上昇2",
+
+  "item.mineprotocol.kougeki_seiyu" : "攻撃の聖油",
+  "item.mineprotocol.kougeki_seiyu.text1" : "エングラムを精製して作られた薬品。\n武器に塗ることで冒険者のエングラムが通じやすくなり、攻撃の威力が上がる。",
+  "item.mineprotocol.kougeki_seiyu.text2" : "攻撃力上昇/1m",
+
+  "item.mineprotocol.mamori_seiyu" : "護りの聖油",
+  "item.mineprotocol.mamori_seiyu.text1" : "鉱石由来のエングラムから硬質の幕を発生させ、衝撃を緩和する。\nバファリアの神の加護が感じられるとして、愛用する信徒もいる。",
+  "item.mineprotocol.mamori_seiyu.text2" : "防御力上昇/1m",
+
+  "item.mineprotocol.asteria_chocolate" : "アクセルチョコ",
+  "item.mineprotocol.asteria_chocolate.text1" : "食べたものに再生能力を与えるチョコ。※嘘\nチョコとは名ばかりの苦い味。",
+  "item.mineprotocol.asteria_chocolate.text2" : "再生力/20s",
+
+  "item.mineprotocol.asteria_chocolate_ult" : "ULT・アクセルチョコ",
+  "item.mineprotocol.asteria_chocolate_ult.text1" : "チョコとは名ばかりの苦い味だが、その苦味が一部の冒険者に人気。\n「ビターを超えるビター」と言われている。\nあまりの苦さに体が光りだす。",
+  "item.mineprotocol.asteria_chocolate_ult.text2" : "アーマー付与/3m",
+
+  "item.mineprotocol.asteria_chocolate_b" : "B・アクセルチョコ",
+  "item.mineprotocol.asteria_chocolate_b.text1" : "チョコとは名ばかりの苦い味だが、その苦みが一部の冒険者に人気。\n「ビターを超えるビター」と言われている。\n食べると使い捨てのアーマーが付与される。",
+  "item.mineprotocol.asteria_chocolate_b.text2" : "アーマー/3m",
+
+  "item.mineprotocol.yadotyou" : "コイン亭の宿帳",
+  "item.mineprotocol.yadotyou.text1" : "この宿帳にサインしておいてくれるかな？",
+
+  "item.mineprotocol.koazi" : "アステルコアジ",
+  "item.mineprotocol.koazi.text1" : "近海で広く見られる小型の魚。釣りの初心者が最初に狙う獲物として知られている。\nこの魚でコツを学び、徐々に大物に挑戦するのが釣りのステップアップの常道。",
+
+  "item.mineprotocol.maazi" : "アステルマアジ",
+  "item.mineprotocol.maazi.text1" : "近海で広く見られる小型の魚。\n釣りの初心者が最初に狙う獲物として知られている。\nこの魚でコツを学び、徐々に大物に挑戦するのが釣りのステップアップの常道。",
+
+  "item.mineprotocol.suzume" : "アオゾラスズメダイ",
+  "item.mineprotocol.suzume.text1" : "美しい鱗を持ち、観賞用として人気のある魚。\n気性は荒々しく、飼育するには注意が必要。\n釣り上げた時、日光を受けて美しく輝く様子が釣り人たちの心をつかんでいる。",
+
+  "item.mineprotocol.oosuzume" : "アオゾラオオスズメダイ",
+  "item.mineprotocol.oosuzume.text1" : "美しい鱗を持ち、観賞用として人気のある魚。\n気性は荒々しく、飼育するには注意が必要。\n釣り上げた時、日光を受けて美しく輝く様子が釣り人たちの心をつかんでいる",
+
+  "item.mineprotocol.kujyaku" : "クジャクカサゴ",
+  "item.mineprotocol.kujyaku.text1" : "特徴的な外見で子供たちに人気の魚。\n手軽に釣れるところも好まれている。\nヒレはかなり頑丈で、日用品や工芸品、時には工具としても利用される。",
+
+  "item.mineprotocol.ookujyaku" : "オオクジャクカサゴ",
+  "item.mineprotocol.ookujyaku.text1" : "特徴的な外見で子供たちに人気の魚。\n手軽に釣れるところも好まれている。\nヒレはかなり頑丈で、日用品や工芸品、時には工具としても利用される。",
+
+  "item.mineprotocol.hugu" : "タイリクシマフグ",
+  "item.mineprotocol.hugu.text1" : "体内に強い毒を持つ魚。\n取り扱いには十分な注意が必要で、基本的に食べないようにと広報されている。\nたぐいまれな生命力で、どんな水質や環境下でも生きていけるという。",
+
+  "item.mineprotocol.oohugu" : "タイリクオオシマフグ",
+  "item.mineprotocol.oohugu.text1" : "体内に強い毒を持つ魚。\n取り扱いには十分な注意が必要で、基本的で食べないようにと広報されている。\nたぐいまれな生命力で、どんな水質や環境下でも生きていけるという。",
+
+  "item.mineprotocol.ankou" : "レグナスアンコウ",
+  "item.mineprotocol.ankou.text1" : "軟体質でぶよぶよした奇妙な魚。\n普段は水底に棲息している。\n大喰らいで食欲旺盛なため、目についた餌や疑似餌を追いかけて水面近くまでやってくる。",
+
+  "item.mineprotocol.ooankou" : "レグナスオオアンコウ",
+  "item.mineprotocol.ooankou.text1" : "軟体質でぷよぷよした奇妙な魚。\n普段は水底に棲息している。\n大喰らいで食欲旺盛なため、目についた餌や疑似餌を追いかけて水面近くまでやってくる。",
+
+  "item.mineprotocol.katuo" : "マグナカツオ",
+  "item.mineprotocol.katuo.text1" : "小魚を捕食し、回遊し続ける大型の魚。\n力が強く、釣り人泣かせの存在だったが、釣り具の発展によって今では歯ごたえのある好敵手として親しまれている。",
+
+  "item.mineprotocol.ookatuo" : "マグナオオカツオ",
+  "item.mineprotocol.ookatuo.text1" : "小魚を捕食し、回遊し続ける大型の魚。\n力が強く、釣り人泣かせの存在だったが、釣り具の発展によって今では歯ごたえのある好敵手として親しまれている。",
+
+  "item.mineprotocol.tuna" : "アステリアマグロ",
+  "item.mineprotocol.tuna.text1" : "ん...？マ、マグロ！？",
+
+  "item.mineprotocol.ootuna" : "アステリアオオマグロ",
+  "item.mineprotocol.ootuna.text1" : "今一瞬、サバだと思ったよね？俺も思った",
+
+  "item.mineprotocol.asteria_fishing_rod" : "あの釣竿",
+  "item.mineprotocol.asteria_fishing_rod.text1" : "釣からは逃げられない。",
+
+  "item.mineprotocol.cooked_koazi" : "焼きアステルコアジ",
+  "item.mineprotocol.cooked_koazi.text1" : "アステルコアジを焼いた物",
+
+  "item.mineprotocol.cooked_maazi" : "焼きアステルマアジ",
+  "item.mineprotocol.cooked_maazi.text1" : "アステルマアジを焼いた物",
+
+  "item.mineprotocol.cooked_suzume" : "焼きアオゾラスズメダイ",
+  "item.mineprotocol.cooked_suzume.text1" : "アオゾラスズメダイを焼いた物",
+
+  "item.mineprotocol.cooked_oosuzume" : "焼きアオゾラオオスズメダイ",
+  "item.mineprotocol.cooked_oosuzume.text1" : "アオゾラオオスズメダイを焼いた物",
+
+  "item.mineprotocol.cooked_kujyaku" : "焼きクジャクカサゴ",
+  "item.mineprotocol.cooked_kujyaku.text1" : "クジャクカサゴを焼いた物",
+
+  "item.mineprotocol.cooked_ookujyaku" : "焼きオオクジャクカサゴ",
+  "item.mineprotocol.cooked_ookujyaku.text1" : "オオクジャクカサゴを焼いた物",
+
+  "item.mineprotocol.cooked_hugu" : "焼きタイリクシマフグ",
+  "item.mineprotocol.cooked_hugu.text1" : "タイリクシマフグを焼いた物",
+
+  "item.mineprotocol.cooked_oohugu" : "焼きタイリクオオシマフグ",
+  "item.mineprotocol.cooked_oohugu.text1" : "タイリクオオシマフグを焼いた物",
+
+  "item.mineprotocol.cooked_ankou" : "焼きレグナスアンコウ",
+  "item.mineprotocol.cooked_ankou.text1" : "レグナスアンコウを焼いた物",
+
+  "item.mineprotocol.cooked_ooankou" : "焼きレグナスオオアンコウ",
+  "item.mineprotocol.cooked_ooankou.text1" : "レグナスオオアンコウを焼いた物",
+
+  "item.mineprotocol.cooked_katuo" : "焼きマグナカツオ",
+  "item.mineprotocol.cooked_katuo.text1" : "マグナカツオを焼いた物",
+
+  "item.mineprotocol.cooked_ookatuo" : "焼きマグナオオカツオ",
+  "item.mineprotocol.cooked_ookatuo.text1" : "マグナオオカツオを焼いた物",
+
+  "item.mineprotocol.cooked_tuna" : "焼きアステリアマグロ",
+  "item.mineprotocol.cooked_tuna.text1" : "アステリアマグロを焼いた物",
+
+  "item.mineprotocol.cooked_ootuna" : "焼きアステリアオオマグロ",
+  "item.mineprotocol.cooked_ootuna.text1" : "アステリアオオマグロを焼いた物",
+
+  "item.mineprotocol.gc" : "GC",
+  "item.mineprotocol.gc.text1" : "グローリーコイン。記念品交換所で色々なものと交換できる",
+
+  "item.mineprotocol.rose" : "ローズオーブ",
+  "item.mineprotocol.rose.text1" : "64GC→1ローズオーブ。記念品交換所で色々なものと交換できる",
+
+  "item.mineprotocol.bpp" : "BPポイント",
+  "item.mineprotocol.bpp.text1" : "64ローズオーブ→1BPP。記念品交換所で色々なものと交換できる",
+
+  "item.mineprotocol.toranomaki_g1" : "クラス虎の巻G1",
+  "item.mineprotocol.toranomaki_g1.text1" : "使用することでランダムなスキルエンチャント本を入手できる",
+
+  "item.mineprotocol.toranomaki_g3" : "クラス虎の巻G3",
+  "item.mineprotocol.toranomaki_g3.text1" : "使用することでランダムな高レベルスキルエンチャント本を入手できる",
+
+  "item.mineprotocol.fish_stick" : "すごく魚を括り付けたくなる棒",
+  "item.mineprotocol.fish_stick.text1" : "なぜか無性に、大き目の魚を括り付けてみたくなる...",
+
+  "item.mineprotocol.maazi_edge" : "アステルマアジの剣",
+  "item.mineprotocol.maazi_edge.text1" : "アステルマアジを棒に括り付けてみた!",
+  "item.mineprotocol.maazi_edge.text2" : "水中呼吸3m/CT5m",
+
+  "item.mineprotocol.suzume_edge" : "アオゾラスズメダイの剣",
+  "item.mineprotocol.suzume_edge.text1" : "アオゾラスズメダイを棒に括り付けてみた!",
+  "item.mineprotocol.suzume_edge.text2" : "浮遊/10s",
+
+  "item.mineprotocol.kujyaku_edge" : "クジャクカサゴの剣",
+  "item.mineprotocol.kujyaku_edge.text1" : "クジャクカサゴを棒に括り付けてみた!",
+  "item.mineprotocol.kujyaku_edge.text2" : "火炎体制1m/CT3m",
+
+  "item.mineprotocol.hugu_edge" : "タイリクシマフグの剣",
+  "item.mineprotocol.hugu_edge.text1" : "タイリクシマフグを棒に括り付けてみた!",
+  "item.mineprotocol.hugu_edge.text2" : "毒/15s",
+
+  "item.mineprotocol.ankou_edge" : "レグナスアンコウの剣",
+  "item.mineprotocol.ankou_edge.text1" : "レグナスアンコウを棒に括り付けてみた!なんと贅沢な！",
+  "item.mineprotocol.ankou_edge.text2" : "跳躍力上昇1m/CT3m",
+
+  "item.mineprotocol.katuo_edge" : "マグナカツオの剣",
+  "item.mineprotocol.katuo_edge.text1" : "マグナカツオを棒に括り付けてみた!なんと贅沢な！",
+  "item.mineprotocol.katuo_edge.text2" : "跳躍力上昇,アーマー,攻撃力上昇,1m/CT3m",
+
+  "item.mineprotocol.tuna_edge" : "アステリアマグロの剣",
+  "item.mineprotocol.tuna_edge.text1" : "アステリアマグロを棒に括り付けてみた!なんと贅沢な！",
+  "item.mineprotocol.tuna_edge.text2" : "跳躍力上昇,アーマー,攻撃力上昇,透明化1m/CT3m",
+
+
+
+  "advancements.mineprotocol.mineprotocol_root.title": "MineProtocol",
+  "advancements.mineprotocol.mineprotocol_root.desc": "アチーブメント的なね",
+
+  "advancements.mineprotocol.first_fishing.title": "釣り、再び。",
+  "advancements.mineprotocol.first_fishing.desc": "釣りからは逃げられない",
+
+  "advancements.mineprotocol.first_in.title": "記憶喪失の冒険者",
+  "advancements.mineprotocol.first_in.desc": "見殺しは夢見が悪い、でしょ？",
+
+  "advancements.mineprotocol.get_katuo.title": "不可視の釣り糸",
+  "advancements.mineprotocol.get_katuo.desc": "マグナカツオを釣る",
+
+  "advancements.mineprotocol.get_ookatuo.title": "気合いの一本釣り",
+  "advancements.mineprotocol.get_ookatuo.desc": "マグナオオカツオを釣る",
+
+  "advancements.mineprotocol.get_koazi.title": "アジフライ好き",
+  "advancements.mineprotocol.get_koazi.desc": "アステルコアジを釣る",
+
+  "advancements.mineprotocol.get_maazi.title": "アジマスター",
+  "advancements.mineprotocol.get_maazi.desc": "アステルマアジを釣る",
+
+  "advancements.mineprotocol.get_suzume.title": "エレガントシェイキング",
+  "advancements.mineprotocol.get_suzume.desc": "アオゾラスズメダイを釣る",
+
+  "advancements.mineprotocol.get_oosuzume.title": "神業ポンピング",
+  "advancements.mineprotocol.get_oosuzume.desc": "アオゾラオオスズメダイを釣る",
+
+  "advancements.mineprotocol.get_kujyaku.title": "根魚フィッシング",
+  "advancements.mineprotocol.get_kujyaku.desc": "クジャクカサゴを釣る",
+
+  "advancements.mineprotocol.get_ookujyaku.title": "トゲトゲ潮騒ロッド",
+  "advancements.mineprotocol.get_ookujyaku.desc": "クジャクオオカサゴを釣る",
+
+  "advancements.mineprotocol.get_hugu.title": "神秘の仕掛け屋",
+  "advancements.mineprotocol.get_hugu.desc": "タイリクシマフグを釣る",
+
+  "advancements.mineprotocol.get_oohugu.title": "ぶくぶくフグキャッチャー",
+  "advancements.mineprotocol.get_oohugu.desc": "タイリクオオシマフグを釣る",
+
+  "advancements.mineprotocol.get_ankou.title": "誘いのプロ",
+  "advancements.mineprotocol.get_ankou.desc": "レグナスアンコウを釣る",
+
+  "advancements.mineprotocol.get_ooankou.title": "グランドアングラー",
+  "advancements.mineprotocol.get_ooankou.desc": "レグナスオオアンコウを釣る",
+
+  "advancements.mineprotocol.get_tuna.title": "オイ、マジかよ！マグロだよ！！",
+  "advancements.mineprotocol.get_tuna.desc": "アステリアマグロを釣る",
+
+  "advancements.mineprotocol.get_ootuna.title": "すごいのじゃ！下僕！",
+  "advancements.mineprotocol.get_ootuna.desc": "アステリアオオマグロを釣る",
+
+  "advancements.mineprotocol.eat_dorodoro.title": "あっ！ドロドロ舐めるの忘れた！",
+  "advancements.mineprotocol.eat_dorodoro.desc": "ドロドロ効果を得る",
+
+
+
+  "enchantment.mineprotocol.bind_slash": "バインドスラッシュ",
+  "enchantment.mineprotocol.crescent_light": "クレセントライト",
+  "enchantment.mineprotocol.shield_dash": "シールドダッシュ",
+  "enchantment.mineprotocol.hate_collect": "ヘイトコレクト",
+
+  "enchantment.mineprotocol.drain_spiral": "ドレインスパイラル",
+  "enchantment.mineprotocol.brutal_blow": "ブルータルブロウ",
+  "enchantment.mineprotocol.desperado": "デスペラード",
+
+  "enchantment.mineprotocol.healing_arrow": "ヒーリングアロー",
+  "enchantment.mineprotocol.refresh_area": "リフレッシュエリア",
+  "enchantment.mineprotocol.twin_flash": "ツインフラッシュ",
+
+  "enchantment.mineprotocol.brave_note": "ブレイブノート",
+  "enchantment.mineprotocol.halcyon_note": "ハルシオンノート",
+  "enchantment.mineprotocol.breaking_beat": "ブレイキングビート",
+  "enchantment.mineprotocol.solid_gain": "ソリットゲイン",
+
+
+
+  "effect.mineprotocol.double_drops": "ドロドロ",
+
+
+
+  "entity.minecraft.villager.mineprotocol.kinenhin" : "記念品交換所"
+
+}

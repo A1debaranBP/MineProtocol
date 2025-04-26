@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:ookatuo"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:bpp",
+    "count": 10
+  }
+}

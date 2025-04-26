@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:mangrove_leaves"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:grokenseed",
+    "count": 1
+  }
+}

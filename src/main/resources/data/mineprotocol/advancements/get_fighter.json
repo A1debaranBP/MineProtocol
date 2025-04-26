@@ -1,0 +1,32 @@
+{
+  "parent": "mineprotocol:mineprotocol_root",
+  "criteria": {
+    "get_fighter": {
+      "conditions": {
+        "items": {
+          "items": [
+            "mineprotocol:dragon_edge"
+          ]
+        }
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.mineprotocol.get_fighter.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mineprotocol:dragon_edge",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.mineprotocol.get_fighter.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

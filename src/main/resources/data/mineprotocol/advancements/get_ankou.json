@@ -1,0 +1,32 @@
+{
+  "parent": "mineprotocol:first_fishing",
+  "criteria": {
+    "ankou": {
+      "conditions": {
+        "item": {
+          "items": [
+            "mineprotocol:ankou"
+          ]
+        }
+      },
+      "trigger": "minecraft:fishing_rod_hooked"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.mineprotocol.get_ankou.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mineprotocol:ankou",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.mineprotocol.get_ankou.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mineprotocol:item/dragon_bow",
+  "textures": {
+    "layer0": "mineprotocol:item/dragon_bow_pulling_1"
+  }
+}

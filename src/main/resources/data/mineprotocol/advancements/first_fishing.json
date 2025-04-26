@@ -1,0 +1,23 @@
+{
+  "parent": "mineprotocol:mineprotocol_root",
+  "display": {
+    "icon": {
+      "item": "mineprotocol:maazi"
+    },
+    "title": {
+      "translate": "advancements.mineprotocol.first_fishing.title"
+    },
+    "description": {
+      "translate": "advancements.mineprotocol.first_fishing.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "first_fish_catch": {
+      "trigger": "minecraft:fishing_rod_hooked"
+    }
+  }
+}

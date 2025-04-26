@@ -1,0 +1,32 @@
+{
+  "parent": "mineprotocol:first_fishing",
+  "criteria": {
+    "maazi": {
+      "conditions": {
+        "item": {
+          "items": [
+            "mineprotocol:maazi"
+          ]
+        }
+      },
+      "trigger": "minecraft:fishing_rod_hooked"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.mineprotocol.get_maazi.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mineprotocol:maazi",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.mineprotocol.get_maazi.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

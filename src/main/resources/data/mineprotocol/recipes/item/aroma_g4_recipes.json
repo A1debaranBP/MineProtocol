@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YZY",
+    "ZXZ",
+    "YZY"
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:tokoyo"
+    },
+    "Y": {
+      "item": "mineprotocol:douteki_kessyou"
+    },
+    "Z": {
+      "item": "mineprotocol:yakuzai_g2"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:aroma_g4",
+    "count": 1
+  }
+}

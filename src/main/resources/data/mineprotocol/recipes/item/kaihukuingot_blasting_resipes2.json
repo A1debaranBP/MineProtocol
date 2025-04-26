@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mineprotocol:yakuzai_g1"
+  },
+  "result": {
+    "item": "mineprotocol:kaihukuingot"
+  },
+  "experience": 0.7,
+  "cookingTime": 100
+}

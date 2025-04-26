@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "mineprotocol:block/gobu_block_up",
+    "down": "mineprotocol:block/gobu_block_down",
+    "north": "mineprotocol:block/gobu_block_front",
+    "south": "mineprotocol:block/gobu_block_back",
+    "east": "mineprotocol:block/gobu_block_left",
+    "west": "mineprotocol:block/gobu_block_right",
+    "particle": "mineprotocol:block/gobu_block_front"
+  }
+}

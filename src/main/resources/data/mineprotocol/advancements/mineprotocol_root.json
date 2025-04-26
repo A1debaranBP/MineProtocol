@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineprotocol:dorodoro_g1"
+    },
+    "title": {
+      "translate": "advancements.mineprotocol.mineprotocol_root.title"
+    },
+    "description": {
+      "translate": "advancements.mineprotocol.mineprotocol_root.desc"
+    },
+    "background": "mineprotocol:textures/block/asteria_ore.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

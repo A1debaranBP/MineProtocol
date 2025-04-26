@@ -1,0 +1,23 @@
+{
+  "parent": "mineprotocol:mineprotocol_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:compass"
+    },
+    "title": {
+      "translate": "advancements.mineprotocol.first_in.title"
+    },
+    "description": {
+      "translate": "advancements.mineprotocol.first_in.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "join_game": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

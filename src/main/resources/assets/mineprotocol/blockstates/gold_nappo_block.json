@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mineprotocol:block/gold_nappo_block", "y": 180 },
+    "facing=south": { "model": "mineprotocol:block/gold_nappo_block" },
+    "facing=west":  { "model": "mineprotocol:block/gold_nappo_block", "y": 90 },
+    "facing=east":  { "model": "mineprotocol:block/gold_nappo_block", "y": 270 }
+  }
+}

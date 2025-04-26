@@ -1,0 +1,32 @@
+{
+  "parent": "mineprotocol:first_fishing",
+  "criteria": {
+    "kujyaku": {
+      "conditions": {
+        "item": {
+          "items": [
+            "mineprotocol:kujyaku"
+          ]
+        }
+      },
+      "trigger": "minecraft:fishing_rod_hooked"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.mineprotocol.get_kujyaku.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mineprotocol:kujyaku",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.mineprotocol.get_kujyaku.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:douteki_kessyou"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:gc",
+    "count": 6
+  }
+}

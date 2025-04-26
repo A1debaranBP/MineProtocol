@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dragon_egg"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:bpp",
+    "count": 1
+  }
+}

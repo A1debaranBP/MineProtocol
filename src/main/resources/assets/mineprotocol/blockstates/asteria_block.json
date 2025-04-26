@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mineprotocol:block/asteria_block"
+    }
+  }
+}

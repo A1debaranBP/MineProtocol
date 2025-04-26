@@ -1,0 +1,102 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cod",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:salmon",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pufferfish",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:koazi",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:maazi",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:suzume",
+          "weight": 55
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:oosuzume",
+          "weight": 35
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:kujyaku",
+          "weight": 55
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:ookujyaku",
+          "weight": 35
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:hugu",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:oohugu",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:ankou",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:ooankou",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:katuo",
+          "weight": 0.7
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:ookatuo",
+          "weight": 0.3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:tuna",
+          "weight": 0.07
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mineprotocol:ootuna",
+          "weight": 0.03
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/fishing/fish"
+}

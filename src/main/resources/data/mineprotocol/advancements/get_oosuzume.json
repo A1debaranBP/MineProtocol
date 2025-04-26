@@ -1,0 +1,32 @@
+{
+  "parent": "mineprotocol:first_fishing",
+  "criteria": {
+    "oosuzume": {
+      "conditions": {
+        "item": {
+          "items": [
+            "mineprotocol:oosuzume"
+          ]
+        }
+      },
+      "trigger": "minecraft:fishing_rod_hooked"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.mineprotocol.get_oosuzume.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "mineprotocol:oosuzume",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.mineprotocol.get_oosuzume.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

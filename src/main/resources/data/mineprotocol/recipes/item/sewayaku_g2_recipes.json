@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " XX",
+    " XX",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:sewayaku_g1"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:sewayaku_g2",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "ZXZ",
+    "ZZZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:crafting_table"
+    },
+    "Y": {
+      "item": "mineprotocol:tokoyo"
+    },
+    "Z": {
+      "item": "mineprotocol:douteki_kakera"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:ityan_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mineprotocol:block/kaihuku_block"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "mineprotocol:item/asteria_fishing_rod"
+  },
+  "overrides": [
+    {
+      "predicate": { "mineprotocol:pulling": 1 },
+      "model": "mineprotocol:item/asteria_fishing_rod_cast"
+    }
+  ]
+}

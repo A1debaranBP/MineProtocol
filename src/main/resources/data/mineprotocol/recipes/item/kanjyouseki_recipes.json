@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:kanjyouseki",
+    "count": 4
+  }
+}

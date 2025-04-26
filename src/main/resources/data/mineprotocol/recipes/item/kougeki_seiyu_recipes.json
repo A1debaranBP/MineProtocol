@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YXY",
+    "X X",
+    "YXY"
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:kanjyouseki"
+    },
+    "Y": {
+      "item": "mineprotocol:baseclay"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:kougeki_seiyu",
+    "count": 1
+  }
+}

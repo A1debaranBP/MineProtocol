@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "YZY",
+    "YYY"
+  ],
+  "key": {
+    "Y": {
+      "item": "mineprotocol:douteki_kakera"
+    },
+    "Z": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:dorodoro_g1",
+    "count": 1
+  }
+}

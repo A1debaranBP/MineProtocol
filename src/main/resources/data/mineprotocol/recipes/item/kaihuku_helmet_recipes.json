@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:kaihukuingot"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:kaihuku_helmet",
+    "count": 1
+  }
+}

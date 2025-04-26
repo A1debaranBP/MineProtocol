@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YZY",
+    "ZXZ",
+    "YZY"
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:tokoyo"
+    },
+    "Y": {
+      "item": "mineprotocol:douteki_kakera"
+    },
+    "Z": {
+      "item": "mineprotocol:sewayaku_g1"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:kaihuku_g2",
+    "count": 1
+  }
+}

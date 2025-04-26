@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:asteria_block"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:asteriaingot",
+    "count": 9
+  }
+}

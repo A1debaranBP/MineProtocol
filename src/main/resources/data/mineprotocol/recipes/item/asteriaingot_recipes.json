@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mineprotocol:suisyou_genseki"
+  },
+  "result": {
+    "item": "mineprotocol:asteriaingot"
+  },
+  "experience": 0.7,
+  "cookingTime": 200
+}

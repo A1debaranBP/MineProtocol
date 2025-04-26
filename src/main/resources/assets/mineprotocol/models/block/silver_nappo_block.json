@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "mineprotocol:block/silver_nappo_block_up",
+    "down": "mineprotocol:block/silver_nappo_block_down",
+    "north": "mineprotocol:block/silver_nappo_block_front",
+    "south": "mineprotocol:block/silver_nappo_block_back",
+    "east": "mineprotocol:block/silver_nappo_block_left",
+    "west": "mineprotocol:block/silver_nappo_block_right",
+    "particle": "mineprotocol:block/silver_nappo_block_front"
+  }
+}

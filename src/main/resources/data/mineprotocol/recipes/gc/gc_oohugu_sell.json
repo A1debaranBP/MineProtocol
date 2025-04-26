@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:oohugu"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:rose",
+    "count": 1
+  }
+}

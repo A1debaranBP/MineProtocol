@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Y ",
+    " Y ",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "mineprotocol:fish_stick"
+    },
+    "Y": {
+      "item": "mineprotocol:kujyaku"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:kujyaku_edge",
+    "count": 1
+  }
+}
