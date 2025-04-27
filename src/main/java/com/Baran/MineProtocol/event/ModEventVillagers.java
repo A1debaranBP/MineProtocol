@@ -83,12 +83,12 @@ public class ModEventVillagers {
                     new ItemStack(MineProtocolBlocks.BlockItems.NAPPO_BLOCK_ITEM.get(), 10),
                     Integer.MAX_VALUE, 6, 0.02f));
 
-            trades.get(2).add((pTrader, pRandom) -> new MerchantOffer(
-                    new ItemStack(MineProtocolItems.ROSE.get(), 6),
-                    EnchantedBookItem.createForEnchantment(
-                            new EnchantmentInstance(ModEnchantments.DRAIN_SPIRAL.get(), 2)
-                    ),
-                    Integer.MAX_VALUE, 12, 0.02f));
+            //trades.get(2).add((pTrader, pRandom) -> new MerchantOffer(
+                    //new ItemStack(MineProtocolItems.ROSE.get(), 6),
+                    //EnchantedBookItem.createForEnchantment(
+                            //new EnchantmentInstance(ModEnchantments.DRAIN_SPIRAL.get(), 2)
+                    //),
+                    //nteger.MAX_VALUE, 12, 0.02f));
 
 
 
@@ -127,6 +127,11 @@ public class ModEventVillagers {
             trades.get(4).add((pTrader, pRandom) -> new MerchantOffer(
                     new ItemStack(MineProtocolItems.ROSE.get(), 1),
                     new ItemStack(MineProtocolItems.AROMA_G4.get(), 1),
+                    Integer.MAX_VALUE, 8, 0.02f));
+
+            trades.get(4).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(MineProtocolItems.ROSE.get(), 1),
+                    new ItemStack(MineProtocolItems.MAGUNIA.get(), 1),
                     Integer.MAX_VALUE, 8, 0.02f));
 
             trades.get(4).add((pTrader, pRandom) -> new MerchantOffer(

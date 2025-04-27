@@ -371,7 +371,7 @@ public class ModEventEnchantment {
                             double dot = lookVec.dot(target.position().subtract(player.position()).normalize());
                             if (dot > 0.85) {
 
-                                target.hurt(player.damageSources().playerAttack(player), 2.0f + level);
+                                target.hurt(player.damageSources().playerAttack(player), 1.0f + level);
                             }
                         }
                     }

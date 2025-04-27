@@ -81,6 +81,10 @@
   "item.mineprotocol.aroma_g4.text1" : "様々な種類のお香をブレンドした一品。\nたちどころに効果があり、冒険者のパーティの命綱として重宝されている。",
   "item.mineprotocol.aroma_g4.text2" : "HP範囲回復/8",
 
+  "item.mineprotocol.magunia" : "マグニアの雫",
+  "item.mineprotocol.magunia.text1" : "マグナ大陸に古くからあるマグニアの木の実の果汁をベースに、昔ながらの製法で作られている。",
+  "item.mineprotocol.magunia.text2" : "満腹度回復/5m",
+
   "block.mineprotocol.asteria_block" : "アステリウムブロック",
   "block.mineprotocol.asteria_block.text1" : "オリジナルアイテム。\nゲームの都合上仕方なく導入。",
 

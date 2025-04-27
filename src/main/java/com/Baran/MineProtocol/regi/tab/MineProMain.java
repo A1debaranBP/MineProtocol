@@ -51,6 +51,7 @@ public class MineProMain {
             MineProtocolItems.AROMA_G2.get(),
             MineProtocolItems.AROMA_G3.get(),
             MineProtocolItems.AROMA_G4.get(),
+            MineProtocolItems.MAGUNIA.get(),
             MineProtocolItems.GC.get(),
             MineProtocolItems.ROSE.get(),
             MineProtocolItems.BPP.get(),
