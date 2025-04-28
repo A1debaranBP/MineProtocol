@@ -98,5 +98,6 @@ public class MineProtocolItems {
     public static final RegistryObject<Item> TORANOMAKI_G1 = ITEMS.register("toranomaki_g1", () -> new ItemToranomakiG1(new Item.Properties()));
     public static final RegistryObject<Item> TORANOMAKI_G3 = ITEMS.register("toranomaki_g3", () -> new ItemToranomakiG3(new Item.Properties()));
     public static final RegistryObject<Item> MAGUNIA = ITEMS.register("magunia", ItemMagunia::new);
+    public static final RegistryObject<Item> TAIRAI = ITEMS.register("tairai", ItemTairai::new);
 
 }

@@ -187,6 +187,10 @@
   "item.mineprotocol.asteria_chocolate_b.text1" : "チョコとは名ばかりの苦い味だが、その苦みが一部の冒険者に人気。\n「ビターを超えるビター」と言われている。\n食べると使い捨てのアーマーが付与される。",
   "item.mineprotocol.asteria_chocolate_b.text2" : "アーマー/3m",
 
+  "item.mineprotocol.tairai" : "耐雷のトローチ",
+  "item.mineprotocol.tairai.text1" : "皮膚の表面にエングラムの流れを生み、雷撃を逸らす層を形成する。\nバファリア遺跡での事故を防ぐために携帯する者も多い。",
+  "item.mineprotocol.tairai.text2" : "耐雷/3m",
+
   "item.mineprotocol.yadotyou" : "コイン亭の宿帳",
   "item.mineprotocol.yadotyou.text1" : "この宿帳にサインしておいてくれるかな？",
 
@@ -402,6 +406,8 @@
 
 
   "effect.mineprotocol.double_drops": "ドロドロ",
+  "effect.mineprotocol.thunder_immunity": "耐雷",
+  "effect.mineprotocol.no_slip": "耐氷",
 
 
 

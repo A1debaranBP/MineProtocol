@@ -22,7 +22,7 @@ license="${mod_license}"
 # The modid of the mod
 modId="mineprotocol" #mandatory
 # The version number of the mod
-version="1.0.7" #mandatory
+version="1.0.8" #mandatory
 # A display name for the mod
 displayName="MineProtocolBeta" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
