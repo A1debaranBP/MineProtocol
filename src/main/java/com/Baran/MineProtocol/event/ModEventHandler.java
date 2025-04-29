@@ -46,4 +46,33 @@ public class ModEventHandler {
             event.setCanceled(true);
         }
     }
+
+    @SubscribeEvent
+    public static void NoSuffocation(LivingHurtEvent event) {
+        if (!(event.getEntity() instanceof LivingEntity)) return;
+        LivingEntity entity = (LivingEntity) event.getEntity();
+
+        if (event.getSource() == entity.level().damageSources().inWall()) {
+            if (entity.hasEffect(ModEffects.NO_SUFFOCATION.get())) {
+                event.setCanceled(true);
+            }
+        }
+    }
+
+    @SubscribeEvent
+    public static void onDragonBreathDamage(LivingHurtEvent event) {
+        if (!(event.getEntity() instanceof LivingEntity)) return;
+        LivingEntity entity = (LivingEntity) event.getEntity();
+
+        System.out.println("Damage Source: " + event.getSource().getMsgId());
+
+        System.out.println("Damage ID: " + event.getSource().getMsgId());
+
+        if ("indirectMagic".equals(event.getSource().getMsgId())) {
+            if (entity.hasEffect(ModEffects.DRAGON_BREATH_IMMUNITY.get())) {
+                System.out.println("DragonBreath無効化!");
+                event.setCanceled(true);
+            }
+        }
+    }
 }

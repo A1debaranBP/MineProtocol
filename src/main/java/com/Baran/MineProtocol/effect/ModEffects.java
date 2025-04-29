@@ -28,6 +28,14 @@ public class ModEffects {
     public static final RegistryObject<MobEffect> NO_SLIP =
             EFFECTS.register("no_slip", NoSlipEffect::new);
 
+    //耐土
+    public static final RegistryObject<MobEffect> NO_SUFFOCATION =
+            EFFECTS.register("no_suffocation", NoSuffocationEffect::new);
+
+    //耐闇
+    public static final RegistryObject<MobEffect> DRAGON_BREATH_IMMUNITY =
+            EFFECTS.register("dragon_breath_immunity", DragonBreathImmunityEffect::new);
+
     public static void register() {
         EFFECTS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }

@@ -187,9 +187,21 @@
   "item.mineprotocol.asteria_chocolate_b.text1" : "チョコとは名ばかりの苦い味だが、その苦みが一部の冒険者に人気。\n「ビターを超えるビター」と言われている。\n食べると使い捨てのアーマーが付与される。",
   "item.mineprotocol.asteria_chocolate_b.text2" : "アーマー/3m",
 
+  "item.mineprotocol.taido" : "耐土のトローチ",
+  "item.mineprotocol.taido.text1" : "地中に生息するモンスターが、よく似た物質を分泌する。\nエングラムを含む土砂に反応し、スムーズに地中を移動できるらしい。",
+  "item.mineprotocol.taido.text2" : "窒息耐性/3m",
+
+  "item.mineprotocol.taihyou" : "耐氷のトローチ",
+  "item.mineprotocol.taihyou.text1" : "高値に分布する植物から抽出した油脂を配合し、氷属性への耐性を生み出す。\n北方の地域では防寒用としても使われている。",
+  "item.mineprotocol.taihyou.text2" : "耐氷/3m",
+
   "item.mineprotocol.tairai" : "耐雷のトローチ",
   "item.mineprotocol.tairai.text1" : "皮膚の表面にエングラムの流れを生み、雷撃を逸らす層を形成する。\nバファリア遺跡での事故を防ぐために携帯する者も多い。",
   "item.mineprotocol.tairai.text2" : "耐雷/3m",
+
+  "item.mineprotocol.taian" : "耐闇のトローチ",
+  "item.mineprotocol.taian.text1" : "",
+  "item.mineprotocol.taian.text2" : "ブレス耐性/3m",
 
   "item.mineprotocol.yadotyou" : "コイン亭の宿帳",
   "item.mineprotocol.yadotyou.text1" : "この宿帳にサインしておいてくれるかな？",
@@ -408,7 +420,8 @@
   "effect.mineprotocol.double_drops": "ドロドロ",
   "effect.mineprotocol.thunder_immunity": "耐雷",
   "effect.mineprotocol.no_slip": "耐氷",
-
+  "effect.mineprotocol.no_suffocation": "耐土",
+  "effect.mineprotocol.dragon_breath_immunity": "耐闇",
 
 
   "entity.minecraft.villager.mineprotocol.kinenhin" : "記念品交換所"
