@@ -43,6 +43,7 @@ public class TwinFlashEnchantment extends Enchantment {
     public boolean checkCompatibility(Enchantment other) {
         return super.checkCompatibility(other)
                 && other != Enchantments.INFINITY_ARROWS
-                && other != ModEnchantments.REFRESH_AREA.get();
+                && other != ModEnchantments.REFRESH_AREA.get()
+                && other != ModEnchantments.HEALING_ARROW.get();
     }
 }

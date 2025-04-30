@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "YZY",
+    "YYY"
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:gravel"
+    },
+    "Z": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:taido",
+    "count": 1
+  }
+}

@@ -102,5 +102,6 @@ public class MineProtocolItems {
     public static final RegistryObject<Item> TAIHYOU = ITEMS.register("taihyou", ItemTaihyou::new);
     public static final RegistryObject<Item> TAIDO = ITEMS.register("taido", ItemTaido::new);
     public static final RegistryObject<Item> TAIAN = ITEMS.register("taian", ItemTaian::new);
+    public static final RegistryObject<Item> TAIKA = ITEMS.register("taika", ItemTaika::new);
 
 }

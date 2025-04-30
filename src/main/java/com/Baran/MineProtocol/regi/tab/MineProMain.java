@@ -52,6 +52,7 @@ public class MineProMain {
             MineProtocolItems.AROMA_G3.get(),
             MineProtocolItems.AROMA_G4.get(),
             MineProtocolItems.MAGUNIA.get(),
+            MineProtocolItems.TAIKA.get(),
             MineProtocolItems.TAIDO.get(),
             MineProtocolItems.TAIHYOU.get(),
             MineProtocolItems.TAIRAI.get(),

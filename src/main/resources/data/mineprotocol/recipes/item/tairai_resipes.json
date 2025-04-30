@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "YZY",
+    "YYY"
+  ],
+  "key": {
+    "Y": {
+      "item": "mineprotocol:asteriaingot"
+    },
+    "Z": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "mineprotocol:tairai",
+    "count": 1
+  }
+}

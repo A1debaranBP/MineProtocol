@@ -187,6 +187,10 @@
   "item.mineprotocol.asteria_chocolate_b.text1" : "チョコとは名ばかりの苦い味だが、その苦みが一部の冒険者に人気。\n「ビターを超えるビター」と言われている。\n食べると使い捨てのアーマーが付与される。",
   "item.mineprotocol.asteria_chocolate_b.text2" : "アーマー/3m",
 
+  "item.mineprotocol.taika" : "耐火のトローチ",
+  "item.mineprotocol.taika.text1" : "火属性攻撃に含まれるエングラムに反応して耐性を発揮する。\n調子に乗って燃え盛る炎に飛び込み、大やけどした者がいたとか。",
+  "item.mineprotocol.taika.text2" : "火炎耐性/3m",
+
   "item.mineprotocol.taido" : "耐土のトローチ",
   "item.mineprotocol.taido.text1" : "地中に生息するモンスターが、よく似た物質を分泌する。\nエングラムを含む土砂に反応し、スムーズに地中を移動できるらしい。",
   "item.mineprotocol.taido.text2" : "窒息耐性/3m",
